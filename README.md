@@ -1,1 +1,1 @@
-Resposta ao Desafio Complementar 1 da RocketSeat no Módulo de ReactJS
+Resposta ao Desafio Complementar 2 da RocketSeat no Módulo de ReactJS
